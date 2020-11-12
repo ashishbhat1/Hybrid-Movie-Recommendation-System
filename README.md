@@ -6,7 +6,7 @@ Libraries Used- Numpy, Pandas, Scikit-learn, Scikit-surprise
 **Output**
 
 ![](images/tk1.PNG)
-![](images/tk2.PNG)
+![](images/tk2.PNG)<br/>
 ![](images/tk3.PNG)
 
 
